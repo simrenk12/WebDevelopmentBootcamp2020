@@ -1,0 +1,1 @@
+control.log("this is my app");
